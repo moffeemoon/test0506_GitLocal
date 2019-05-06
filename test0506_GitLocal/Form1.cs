@@ -16,5 +16,10 @@ namespace test0506_GitLocal
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
